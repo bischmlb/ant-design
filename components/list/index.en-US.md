@@ -39,7 +39,7 @@ Properties for pagination.
 
 | Property | Description                              | Type                        | Default  |
 | -------- | ---------------------------------------- | --------------------------- | -------- |
-| position | The specify the position of `Pagination` | `top` \| `bottom` \| `both` | `bottom` |
+| position | Specify the position of `Pagination` | `top` \| `bottom` \| `both` | `bottom` |
 
 More about pagination, please check [`Pagination`](/components/pagination/).
 
